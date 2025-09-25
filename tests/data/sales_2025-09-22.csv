@@ -1,0 +1,2 @@
+date,time,from_currency,to_currency,amount_from,amount_to,rate_from_loc,rate_to_loc,partial,remainder_loc,profit_loc
+2025-09-22,12:50:24,1,LOC,100000.000000,2412.545235,1.000000,41.450000,0,0.000000,217.129071
