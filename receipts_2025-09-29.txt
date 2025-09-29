@@ -1,0 +1,18 @@
+
+========= CURRENCY EXCHANGE RECEIPT =========
+Transaction ID: 1
+Date: 2025-09-29 16:29:19
+From: 1000.00 LOC
+To: 24.13 USD
+Rate: 1 LOC = 0.0241 USD
+==========================================
+
+
+========= CURRENCY EXCHANGE RECEIPT =========
+Transaction ID: 2
+Date: 2025-09-29 16:29:35
+From: 100.00 EUR
+To: 116.72 USD
+Rate: 1 EUR = 1.1672 USD
+==========================================
+

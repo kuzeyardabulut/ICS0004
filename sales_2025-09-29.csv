@@ -1,0 +1,3 @@
+date,time,tx_id,from_currency,to_currency,amount_from,amount_to,rate_from_loc,rate_to_loc,partial,remainder_loc,profit_loc
+2025-09-29,16:29:19,1,LOC,USD,1000.000000,24.125452,1.000000,41.450000,0,0.000000,2.171291
+2025-09-29,16:29:35,2,EUR,USD,100.000000,116.718938,48.380000,41.450000,0,0.000000,10.504704
